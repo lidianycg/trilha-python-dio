@@ -1,1 +1,1 @@
-print("Oi, seja bem vindo ao curso de Python!")
+print("Oi, seja bem vinda ao curso de Python!")

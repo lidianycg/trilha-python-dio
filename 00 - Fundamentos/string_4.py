@@ -1,24 +1,22 @@
 nome = "Guilherme"
 
 mensagem = f"""
-   Olá meu nome é {nome},
- Eu estou aprendendo Python.
-     Essa mensagem tem diferentes recuos.
+   Olá meu nome é {nome}, 
+Eu estou aprendendo Python.
+    Essa mensagem tem diferentes recuos.
 """
 
 print(mensagem)
 
+print(""""
+    ========= MENU ==========
 
-print(
-    """
-    ============= MENU =============
+    1 - DEPOSITAR
+    2 - SACAR
+    3 - SAIR
 
-    1 - Depositar
-    2 - Sacar
-    0 - Sair
+    =========================
 
-    ================================
+        Obrigada por usar nosso sistema!
 
-            Obrigado por usar nosso sistema!!!!
-"""
-)
+""")
